@@ -1,0 +1,26 @@
+body {  
+    color:rgb(11, 11, 112);  
+    font-size: small;
+    font-family: Cambria, Georgia, 'Book Antiqua', serif;
+}
+h1 {  
+    color:rgb(100, 13, 13);  
+}
+h2 {  
+    color:rgb(9, 90, 13);
+    background-color: seashell;  
+    width: fit-content;
+    font-weight: bolder;
+}
+a:link {
+    color: aqua;
+}
+a:visited {
+    color: rgb(11, 11, 112);
+}
+a:hover {
+    background-color: rgb(246, 255, 121);
+}
+a:active {
+    color: red;
+}
