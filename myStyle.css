@@ -3,11 +3,7 @@ body {
     font-size: small;
     font-family: Cambria, Georgia, 'Book Antiqua', serif;
 }
-h1 {  
-    color:rgb(100, 13, 13);  
-}
 h2 {  
-    color:rgb(9, 90, 13);
     background-color: seashell;  
     width: fit-content;
     font-weight: bolder;
@@ -23,4 +19,29 @@ a:hover {
 }
 a:active {
     color: red;
+}
+h1, h2 {
+    color: darkgreen
+}
+p em {
+    color:black
+}
+p.intro {
+    font-style: italic;
+}
+p.education {
+    font-style: oblique;
+}
+img#img4560 {
+    width:10%;
+}
+img#img1100 {
+    width:10%;
+}
+ol li {
+    margin-bottom: 0.2em;
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
 }
